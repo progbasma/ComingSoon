@@ -1,9 +1,4 @@
-/**
-* Template Name: ComingSoon - v4.6.0
-* Template URL: #comingsoon-free-html-bootstrap-template/
-* Author: basma
-* License: #license/
-*/
+Basma
 (function() {
   "use strict";
 
